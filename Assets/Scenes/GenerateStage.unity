@@ -173,7 +173,6 @@ MonoBehaviour:
   - {fileID: 7046059512948859483, guid: 9a2c2968343154c46930a0daa6220670, type: 3}
   FirstStageIndex: 1
   aheadStage: 3
-  StageList: []
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -482,12 +481,12 @@ PrefabInstance:
     - target: {fileID: 5706336604684922821, guid: 4b3e08529b07441859643929b4983b68,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.158
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 5706336604684922821, guid: 4b3e08529b07441859643929b4983b68,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.5
+      value: -3
       objectReference: {fileID: 0}
     - target: {fileID: 5706336604684922821, guid: 4b3e08529b07441859643929b4983b68,
         type: 3}
